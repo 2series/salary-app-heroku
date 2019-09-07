@@ -1,3 +1,3 @@
 # salary-app-heroku
 
-[App URL](https://salary-app-api.herokuapp.com/)
+[Explore the app here](https://salary-app-api.herokuapp.com/)
